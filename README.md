@@ -7,7 +7,7 @@
 <img align="center" alt="DenniDev-msqlserver"  src="https://komarev.com/ghpvc/?username=DenniDev&style=flat-square">
 
 - 👀 Estou interessado em JavaScript, ReactJs, AngularJs, Typescrpit,  MySQL, Python
-- 🌱 Atualmente estou aprendendo Ionic, JavaScript, PHP & MySQL
+- 🌱 Atualmente estou aprendendo JavaScript, PHP, Ionic & AngularJs 
 - 📫 denilsondosantos64@hotmail.com
 
 
