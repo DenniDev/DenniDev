@@ -33,7 +33,7 @@
 <img align="center" alt="samuel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 <img align="center" alt="samuel" height="30" width="40" 
 src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-<img aligh="center" alt="samuel" height="30" width="40"
+<img align="center" alt="samuel" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
 
 <br/>
