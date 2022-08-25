@@ -32,7 +32,6 @@ src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-o
 <img align="center" alt="samuel" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
 <img align="center" alt="samuel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">   
-<img align="center" alt="samuel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 
 <br/>
 
